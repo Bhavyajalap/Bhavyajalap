@@ -1,8 +1,8 @@
-#Hi there 👋
+Hi there 👋
 
 A crazy web developer
 
-🔭 I’m currently studying in RASHTRIYA RAKSHA UNIVERSITY, GANDHINAGAR
+🔭 I’m currently studying at RASHTRIYA RAKSHA UNIVERSITY, GANDHINAGAR
 
 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT (MERN)
 
@@ -13,6 +13,3 @@ A crazy web developer
 📫 How to reach me: bjalap3747@gmail.com
 
 😄 Pronouns: (SHE/ HER)
-
-⚡ Fun fact: Crazy
-
