@@ -1,14 +1,14 @@
 Hi there 👋
 
-A crazy web developer
+A AI/ML developer
 
 🔭 I’m currently studying at RASHTRIYA RAKSHA UNIVERSITY, GANDHINAGAR
 
-🌱 I’m currently learning FULL STACK WEB DEVELOPMENT (MERN)
+🌱 I’m currently learning Machine Learning
 
-👯 I’m looking to collaborate on WEB DEVELOPMENT PROJECTS
+👯 I’m looking to collaborate on AI/ML PROJECTS
 
-💬 Ask me about C,C++, HTML, JS, REACT.JS
+💬 Ask me about C,C++,Python
 
 📫 How to reach me: bjalap3747@gmail.com
 
