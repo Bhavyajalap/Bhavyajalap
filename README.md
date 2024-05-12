@@ -8,7 +8,7 @@ A AI/ML developer
 
 👯 I’m looking to collaborate on AI/ML PROJECTS
 
-💬 Ask me about C,C++,Python
+💬 Ask me about Machine Learning.
 
 📫 How to reach me: bjalap3747@gmail.com
 
