@@ -1,8 +1,8 @@
 Hi there 👋
 
-A AI/ML developer
+A AI/ML Engineer
 
-🔭 I’m currently studying at RASHTRIYA RAKSHA UNIVERSITY, GANDHINAGAR
+🔭 Love to solve problem with innovation.
 
 🌱 I’m currently learning Machine Learning
 
